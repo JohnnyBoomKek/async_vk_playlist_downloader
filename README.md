@@ -1,1 +1,3 @@
-# async_vk_playlist_downloader
+Vk playlist downloader. 
+
+Скрипт использующий возможность синхронной и асинхронной загрузки песен из Ваших плейлистов.
